@@ -1,0 +1,10 @@
+{
+  "presets": [
+    [
+      "@babel/env"
+    ]
+  ],
+  "plugins": [
+    "@ant-design-vue/babel-plugin-jsx"
+  ]
+}
